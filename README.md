@@ -1,6 +1,4 @@
-# Glow-in-the-Dark Widget
 
-A chat application with advanced functionality.
 
 ## Demo Video
 
