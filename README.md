@@ -1,3 +1,13 @@
+# Glow-in-the-Dark Widget
+
+A chat application with advanced functionality.
+
+## Demo Video
+
+Check out our application demo video:
+
+[![Demo Video](https://img.youtube.com/vi/PF7CONkY7Wc/0.jpg)](https://youtu.be/PF7CONkY7Wc)
+
 # Glow-in-the-Dark Widget Chatbot
 
 This project is a simple chatbot application that can answer questions about a fictional product called the "Glow-in-the-Dark Widget". The application consists of a React/TypeScript/Tailwind CSS frontend and a FastAPI/LangChain backend.
